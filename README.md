@@ -87,5 +87,4 @@ Softpro India Computer Technologies Pvt. Ltd. (July 2025 – Aug 2025)
 
 ---
 
-# 🐍 Contribution Snake
-![snake gif](https://github.com/Parishukla20/Parishukla20/blob/output/github-contribution-grid-snake.svg)
+

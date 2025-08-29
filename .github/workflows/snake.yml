@@ -2,24 +2,24 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs every midnight
-  workflow_dispatch:
+    # हर रात 12 बजे अपने आप run होगा
+    - cron: "0 0 * * *"
+  workflow_dispatch:  # manually run करने का option देगा
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
-
-      - name: Generate snake animation
+      # Snake animation generate करता है
+      - name: Generate Snake Animation
         uses: Platane/snk@master
         with:
           github_user_name: Parishukla20
           outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v2.1.3
+      # Output branch पर push करता है
+      - name: Push Snake Animation to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist

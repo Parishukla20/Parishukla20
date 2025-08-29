@@ -78,3 +78,14 @@ Softpro India Computer Technologies Pvt. Ltd. (July 2025 – Aug 2025)
 ---
 
 ✨ Thanks for visiting my profile! Feel free to explore my repositories and connect with me. ✨
+
+
+---
+
+# 👀 Profile Visitors
+![Visitor Count](https://komarev.com/ghpvc/?username=Parishukla20&color=blue&style=for-the-badge)
+
+---
+
+# 🐍 Contribution Snake
+![snake gif](https://github.com/Parishukla20/Parishukla20/blob/output/github-contribution-grid-snake.svg)

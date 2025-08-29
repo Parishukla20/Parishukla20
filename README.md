@@ -4,7 +4,7 @@
 ---
 
 # 💫 About Me
-- 🎓 *B.Tech in Computer Science (2023–2026)* – Ambalika Institute of Management & Technology, Lucknow  
+- 🎓 *B.Tech in Computer Science (2022–2026)* – Ambalika Institute of Management & Technology, Lucknow  
 - 💻 Passionate about *MERN Stack Development & Full-Stack Projects*  
 - 🌱 Currently learning *React, Node.js, Express.js, MongoDB*  
 - 📘 Preparing for *GATE Exam*  

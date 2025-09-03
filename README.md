@@ -63,11 +63,6 @@ Softpro India Computer Technologies Pvt. Ltd. (July 2025 – Aug 2025)
 
 ---
 
-# 📊 GitHub Stats & Activity
-![Pari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Parishukla20&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Parishukla20&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Parishukla20&theme=tokyonight)  
-
 ---
 
 # 🌐 Connect with Me
